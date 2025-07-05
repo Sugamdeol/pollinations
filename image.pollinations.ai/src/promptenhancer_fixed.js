@@ -234,7 +234,7 @@ export const pimpPrompt = memoize(pimpPromptRaw);
 
 // --- Main function for testing purposes ---
 async function main() {
-    console.log("--- Testing Prompt Enhancer (Generation & Editing) ---\n");
+    console.log("--- Testing FIXED Prompt Enhancer (Generation & Editing) ---\n");
 
     const seed = 42;
     // A tiny, valid base64 encoded 1x1 red pixel GIF for testing.
